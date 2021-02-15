@@ -2,8 +2,7 @@
   "name": "Server_3",
   "version": "1.0.0",
   "scripts": {
-	"start":"node server.js",
-	"start":"node index.html"
+	"start":"node index"
   }
   "dependencies": {
     "express": "^4.17.1",
